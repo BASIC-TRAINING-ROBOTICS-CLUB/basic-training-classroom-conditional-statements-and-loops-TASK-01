@@ -1,0 +1,10 @@
+Full Adder Implementation
+
+Create a C program that implements a full adder. 
+The full adder adds three binary inputs (two significant bits and one carry-in) and produces two outputs: sum and carry-out.
+
+Develop a library that incoorporates the necessary functions or classes to perform essential calculations required by users. 
+Also submit a document file about the things you learned while doing the task( be it mathematics, logic or even code syntax ).
+
+Documentation is mandatory regardless of whether the task is completed.If the task is not completed, provide a detailed explanation of the technical 
+reasons or challenges that prevented its completion.
